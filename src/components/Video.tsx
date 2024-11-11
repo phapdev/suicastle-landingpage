@@ -29,7 +29,7 @@ const Video = () => {
           </a>
         </div>
       </div>
-      <div className="w-[750px] h-[421.5px] bg-white rounded-2xl relative z-10">
+      {/* <div className="w-[750px] h-[421.5px] bg-white rounded-2xl relative z-10">
         <iframe
           // src="https://www.youtube.com/embed/5GQOho8rt6I"
           width="744"
@@ -40,7 +40,7 @@ const Video = () => {
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen
         ></iframe>
-      </div>
+      </div> */}
     </div>
   );
 };
